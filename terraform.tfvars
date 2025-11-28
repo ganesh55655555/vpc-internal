@@ -8,6 +8,3 @@ eu_availability_zone = ["ap-south-1a", "ap-south-1b", "ap-south-1c"]
 # EC2
 ec2_ami_id = "ami-02b8269d5e85954ef"
 key_name   = "terrafrom-testing"   # Replace with the key you created in AWS
-
-~
-~
